@@ -1,5 +1,6 @@
 title: My testblog
 author: rsalzer
+theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Description blablabla...
