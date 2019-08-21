@@ -1,6 +1,5 @@
 title: My testblog
 author: rsalzer
-theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Description blablabla...
@@ -10,3 +9,4 @@ twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
